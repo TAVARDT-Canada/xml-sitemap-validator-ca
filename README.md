@@ -5,7 +5,7 @@
 
 Technical sitemap validation utility for Canadian digital channels, verifying URL structure, encoding, and search engine compatibility.
 
-Developed and maintained by the digital systems and crawl engineering unit at **TAVARDT Canada**.
+Developed and maintained by the digital systems and crawl engineering unit at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python sitemap_validator.py https://example.ca/sitemap.xml -json
 For ad-hoc sitemap inspections and continuous index verification:
 
 * **Official XML Sitemap Validator**
-* **TAVARDT Canada Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Canadian Web Crawl and Indexing Advisory
 
-For enterprise URL architecture and technical alignment with Sitemaps.org Specifications and Web Guidelines, contact the specialists at **TAVARDT Canada**.
+For enterprise URL architecture and technical alignment with Sitemaps.org Specifications and Web Guidelines, contact the specialists at **TAVARDT**.
 
 ***
 
