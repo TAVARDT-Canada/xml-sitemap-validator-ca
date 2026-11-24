@@ -1,4 +1,4 @@
-# XML Sitemap Validator | TAVARDT Canada
+# XML Sitemap Validator
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/ca/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For ad-hoc sitemap inspections and continuous index verification:
 ## Canadian Web Crawl and Indexing Advisory
 
 For enterprise URL architecture and technical alignment with Sitemaps.org Specifications and Web Guidelines, contact the specialists at **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
